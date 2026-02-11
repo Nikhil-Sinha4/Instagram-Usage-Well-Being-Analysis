@@ -9,30 +9,34 @@ How does daily Instagram usage intensity influence user happiness across differe
 The dataset contains:
            
            User demographics
-           
            Daily Instagram usage minutes
            Self-reported stress levels
            Happiness score indicators
            Geographic and behavioral attributes
 ## Methodology
-1. Data Cleaning
+1. Data Cleaning:
+   
            Standardized inconsistent categorical labels
            Validated data types and ranges
            Removed redundancy
-2. Feature Engineering
+3. Feature Engineering
    Users were segmented into usage groups:
+   
            Low Usage (< 1 hour/day)
            Moderate Usage (1–2 hours/day)
            Heavy Usage (> 2 hours/day)
-3. Exploratory Analysis
+5. Exploratory Analysis
+   
            Usage intensity vs happiness trends
            Stress-level based behavioral comparisons
            Demographic pattern exploration
-4. Visualization
+7. Visualization
    Created comparative trend charts to identify behavioral relationships.
 ## Key Insights
 Increased Instagram usage is associated with lower happiness levels.
+
 High-stress users show the strongest negative trend.
+
 Usage intensity may amplify psychological stress effects.
 ## Limitations
 Observational dataset (no causal inference).
