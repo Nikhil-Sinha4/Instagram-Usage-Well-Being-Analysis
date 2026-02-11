@@ -7,7 +7,9 @@ The goal is to identify meaningful behavioral trends and demonstrate large-scale
 How does daily Instagram usage intensity influence user happiness across different stress levels and demographic groups?
 ## Dataset Summary
 The dataset contains:
+           
            User demographics
+           
            Daily Instagram usage minutes
            Self-reported stress levels
            Happiness score indicators
