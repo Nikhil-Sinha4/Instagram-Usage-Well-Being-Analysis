@@ -40,15 +40,23 @@ High-stress users show the strongest negative trend.
 Usage intensity may amplify psychological stress effects.
 ## Limitations
 Observational dataset (no causal inference).
+
 Self-reported psychological metrics may introduce bias.
+
 Segmentation thresholds are behaviorally intuitive, not fully data-driven.
 ## Future Improvements
 Regression modelling for statistical validation
+
 Clustering-based behavioral segmentation
+
 Longitudinal usage trend analysis
 ## Tools & Technology
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Jupyter Notebook
