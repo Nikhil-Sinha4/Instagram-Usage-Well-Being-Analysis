@@ -60,3 +60,5 @@ NumPy
 Matplotlib / Seaborn
 
 Jupyter Notebook
+## Note
+The results indicate associations, not causation. Further statistical and longitudinal analysis would be required to establish causal relationships.
